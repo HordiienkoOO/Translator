@@ -1,3 +1,5 @@
+# Paste following code in NSTextView to test Translator
+
 program name {
 
 //program started
